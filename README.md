@@ -6,11 +6,11 @@ A Next.js App That Generates Articles, Twitter Threads, Essays, Cover Letters, T
 
 ### [Live Demo on Vercel](https://ai-post-generator.vercel.app/)
 
-### To be done 
+### To be done
 
 - Fine-Tunning The Model
 - Posting articles on the blockchain (cheap ones)
-- Showing articles that are posted on the blockchain 
+- Showing articles that are posted on the blockchain
 
 ## Features ✅
 
@@ -35,6 +35,7 @@ A Next.js App That Generates Articles, Twitter Threads, Essays, Cover Letters, T
 ## Development 🛠️
 
 ```bash
+npm install
 npm run dev
 # or
 yarn dev
