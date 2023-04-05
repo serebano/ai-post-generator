@@ -1,10 +1,10 @@
-# AI NFT GENERATOR
+# AI CONTENT GENERATOR
 
 A Next.js App That Generates Articles, Twitter Threads, Essays, Cover Letters, Tutorials And More Using OpenAI ⚡
 
 ![Screen](./screen.jpg)
 
-### [Live Demo on Vercel](https://ai-post-generator.vercel.app/)
+### [Live Demo](https://aigen.tictapp.dev/)
 
 ### To be done
 
@@ -46,3 +46,4 @@ yarn dev
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=nexth&filter=next.js&utm_source=nexth&utm_campaign=nexth-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+OC
